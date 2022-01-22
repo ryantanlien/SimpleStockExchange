@@ -2,6 +2,8 @@
 A SimpleStockExchange that handles trades on stocks using a PriorityQueue implementation
 
 # Design Overview
+This program was built using pure Java 11, Maven for dependencies and JUnit 4.12 for testing.
+
 ## Data Classes
 These classes are an encapsulation of the data in stock exchanges such as:
 - Buy Orders 
