@@ -54,6 +54,10 @@ In order to run this program, you are required to have a command line and Java 1
 Open the project directory in the command line and navigate to this path location: SimpleStockManager/out/artifacts/SimpleStockExchange_jar
 Execute this command in the terminal: java -jar SimpleStockExchange.jar
 
-Alternatively, open the project in IntelliJ IDEA or Eclipse and run the App main class.
+Alternatively, open the project in IntelliJ IDEA or Eclipse and run the App main class after building the Maven project using 
+
+```mvn install``` 
+then 
+```mvn build```
 
 
